@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="diagrama-io-bos" src="https://github.com/user-attachments/assets/66efdd2f-52f9-4fb5-81a3-04d1bb399f19" />
 # IO-BOS: S.O.I. Financiero Soberano
 
 ### La arquitectura del Sistema Operativo de Inteligencia (S.O.I.) para la gobernanza financiera autónoma y privada.

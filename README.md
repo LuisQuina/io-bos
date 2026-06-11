@@ -1,41 +1,56 @@
 <img width="1408" height="768" alt="diagrama-io-bos" src="https://github.com/user-attachments/assets/66efdd2f-52f9-4fb5-81a3-04d1bb399f19" />
-# IO-BOS: S.O.I. Financiero Soberano
+# IO-BOS V2: Intelligent Operations Business Orchestration System
+The Operating System for Intelligence (SOI) for autonomous and private financial governance.
+📋 Project Description
 
-### La arquitectura del Sistema Operativo de Inteligencia (S.O.I.) para la gobernanza financiera autónoma y privada.
+IO-BOS (Intelligent Operational Business Operational Sentinel) is a Zero Trust architecture engineered for autonomous financial orchestration. Its primary goal is to transform complex data into executive decisions in under 20 seconds, eliminating the opacity of deferred accounting cycles while ensuring that sensitive data never leaves the organization's perimeter.
+🚀 Unique Value Proposition
 
----
+    Sovereign AI: Localized processing that eliminates dependence on third-party APIs for sensitive data handling.
 
-## 📋 Descripción del Proyecto
-**IO-BOS (Intelligent Operational Business Operational Sentinel)** es una arquitectura *Zero Trust* diseñada para la orquestación financiera autónoma. Su objetivo es transformar datos complejos en decisiones ejecutivas en menos de 20 segundos, eliminando la opacidad de los cierres contables diferidos y garantizando que ningún dato abandone el perímetro de la organización.
+    Sentinel Guardrail: A high-fidelity mathematical validation layer that prevents LLM "hallucinations" in financial reporting.
 
-## 🚀 Valor Diferencial
-* **IA Soberana:** Procesamiento local sin dependencia de APIs de terceros para datos sensibles.
-* **Sentinel Guardrail:** Filtro de validación matemática de alta fidelidad que evita las "alucinaciones" del LLM en reportes financieros.
-* **Orquestación Corporativa:** Integración nativa con **UiPath Automation Cloud** para trazabilidad forense y gestión de excepciones (*Human-in-the-loop*).
-* **Escalabilidad de Madurez:** Arquitectura adaptable en tres niveles (Niveles A, B y C).
+    Corporate Orchestration: Native integration with UiPath Automation Cloud for forensic traceability and Human-in-the-loop exception management.
 
-## 🛠 Arquitectura del Sistema
-El flujo de trabajo se basa en un paradigma de agnosticismo de dominio:
+    Scalable Maturity: Architecture adaptable across three operational tiers (Tiers A, B, and C).
 
-1.  **Ingesta (Normalización):** Middleware en JavaScript para estandarización de datos.
-2.  **Sentinel Guardrail (Seguridad):** Capa de validación determinista previa a la inferencia.
-3.  **Capa Cognitiva:** Motor de IA desacoplado del motor de cálculo financiero para garantizar exactitud.
-4.  **Orquestación:** Ejecución de flujos mediante n8n y gestión maestra en UiPath.
+🛠 System Architecture
 
-## 🏗 Stack Tecnológico
-* **Orquestación:** UiPath Automation Cloud / UiPath Maestro.
-* **Flujos de trabajo:** n8n.
-* **Lenguajes:** JavaScript.
-* **IA:** LLM con enfoque local (Soberanía de Datos).
-* **Notificaciones:** Telegram Bot API.
+The workflow is built on a domain-agnostic paradigm:
 
-## 📈 Matriz de Madurez Tecnológica
-* **Nivel A (Adaptativo):** Despliegue en VPS para Pymes.
-* **Nivel B (Integrado):** Integración con ERPs para ciclos estacionales.
-* **Nivel C (Cerrado):** Despliegue *On-Premise* total con hardware aislado.
+    Ingestion (Normalization): JavaScript-based middleware for data standardization.
 
-## 👤 Sobre el Autor
-Este sistema es el resultado de la convergencia entre mi experiencia como **economista y desarrollador de IA**. IO-BOS fue diseñado bajo un riguroso estándar de gobernanza financiera, garantizando que cada decisión automatizada sea auditable, coherente y estratégicamente alineada con la realidad operativa de la organización.
+    Sentinel Guardrail (Security): Deterministic validation layer prior to inference.
+
+    Cognitive Layer: AI engine decoupled from the financial calculation engine to ensure precision.
+
+    Orchestration: Workflow execution via n8n and master management through UiPath.
+
+🏗 Tech Stack
+
+    Orchestration: UiPath Automation Cloud / UiPath Maestro.
+
+    Workflows: n8n.
+
+    Languages: JavaScript.
+
+    AI: Local-first LLM approach (Data Sovereignty).
+
+    Notifications: Telegram Bot API.
+
+📈 Technology Maturity Matrix
+
+    Tier A (Adaptive): VPS deployment for SMBs.
+
+    Tier B (Integrated): ERP integration for seasonal cycles.
+
+    Tier C (Closed): Full On-Premise deployment with air-gapped hardware.
+
+👤 About the Author
+
+This system represents the convergence of expertise in economics and AI development. IO-BOS was designed under rigorous financial governance standards, ensuring every automated decision is auditable, coherent, and strategically aligned with an organization's operational reality.
+
+
 
 ---
 *Desarrollado para el UiPath AgentHack 2026.*

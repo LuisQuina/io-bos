@@ -1,6 +1,8 @@
 <img width="1408" height="768" alt="diagrama-io-bos" src="https://github.com/user-attachments/assets/66efdd2f-52f9-4fb5-81a3-04d1bb399f19" />
 # IO-BOS V2: Intelligent Operations Business Orchestration System
 The Operating System for Intelligence (SOI) for autonomous and private financial governance.
+**🎥 [Watch the IO-BOS V2 Demo here](https://youtu.be/LyuX_2fp3Kg)**
+
 📋 Project Description
 
 IO-BOS (Intelligent Operational Business Operational Sentinel) is a Zero Trust architecture engineered for autonomous financial orchestration. Its primary goal is to transform complex data into executive decisions in under 20 seconds, eliminating the opacity of deferred accounting cycles while ensuring that sensitive data never leaves the organization's perimeter.
